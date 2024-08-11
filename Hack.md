@@ -20,4 +20,9 @@ web上で閲覧できる資料のまとめ．
 - [81-web](https://81-web.com/)（豊富なデザイン，表紙として参考になりそうなものが多い）
 - [MUUUUU.ORG](https://muuuuu.org/)（表紙として参考になりそう，81-webよりもパワポ風）
 - [Parts](https://partsdesign.net/)（パーツ別webデザイン集で，フローや事例紹介など非常に参考になる）
-- 
+
+## YouTubeでまなぶプレゼンテクニックと資料デザイン
+- [ぬるっと動く目次スライドのつくり方](https://www.youtube.com/watch?v=wMgsg3Jrv5c)
+- [ズームスライドのつくり方](https://www.youtube.com/watch?v=Jsd8u5OVwug)
+- [動く地図スライドのつくり方](https://www.youtube.com/watch?v=GbPZzS6g6h0&t=69s)
+

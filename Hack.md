@@ -32,7 +32,8 @@ web上で閲覧できる資料のまとめ．
 - [Parts](https://partsdesign.net/)（パーツ別webデザイン集で，フローや事例紹介など非常に参考になる）
 
 ## デザインを参考にしたい決算資料まとめ<a name="design"></a>
-- [ジャパニアス株式会社](https://contents.xj-storage.jp/xcontents/AS04773/9f243b7b/028a/48ed/aa88/347ae55479d1/140120240408567148.pdf
+
+- [ジャパニアス株式会社](https://contents.xj-storage.jp/xcontents/AS04773/9f243b7b/028a/48ed/aa88/347ae55479d1/140120240408567148.pdf)
 - [Charwork株式会社](https://contents.xj-storage.jp/xcontents/AS04681/0ede0bd0/d73c/40b6/8b41/8a47405060d1/140120200213464578.pdf)
 - [GMO INTERNET](https://ir.gmo.jp/pdf/presen/GMO_FY21_Q2_Financial_Results_Presentation_210810.pdf)
 - [株式会社 東名](https://ssl4.eir-parts.net/doc/4439/ir_material_for_fiscal_ym/98588/00.pdf)

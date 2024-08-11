@@ -13,7 +13,7 @@ web上で閲覧できる資料のまとめ．
 - [pigment](https://pigment.shapefactory.co/)（2色の配色）
 - [HELLO COLOR](https://jxnblk.io/hello-color/?c=1dada3)（2色の配色）
 
-## マネたいデザイン<a nama="design"></a>
+## マネたいデザイン<a name="design"></a>
 
 - [1guu](https://1guu.jp/)
 - [マネるデザイン研究所](https://maneru-design-lab.net/page/3)（さまざまなカテゴリーのものがある）
@@ -21,8 +21,9 @@ web上で閲覧できる資料のまとめ．
 - [MUUUUU.ORG](https://muuuuu.org/)（表紙として参考になりそう，81-webよりもパワポ風）
 - [Parts](https://partsdesign.net/)（パーツ別webデザイン集で，フローや事例紹介など非常に参考になる）
 
-## YouTubeでまなぶプレゼンテクニックと資料デザイン
+## YouTubeでまなぶプレゼンテクニックと資料デザイン<a nama="youtube"></a>
 - [ぬるっと動く目次スライドのつくり方](https://www.youtube.com/watch?v=wMgsg3Jrv5c)
 - [ズームスライドのつくり方](https://www.youtube.com/watch?v=Jsd8u5OVwug)
 - [動く地図スライドのつくり方](https://www.youtube.com/watch?v=GbPZzS6g6h0&t=69s)
 
+##　本<a name="book"></a>

@@ -2,7 +2,8 @@
 
 web上で閲覧できる資料のまとめ．
 
-##　目次
+## 目次
+
 - [イラスト](#illustration)  
 - [配色](#collorpallete)  
 - [マネたいデザイン](#design)  

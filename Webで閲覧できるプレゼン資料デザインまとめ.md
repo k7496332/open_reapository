@@ -19,7 +19,7 @@
 - [Blodmaker](https://www.blobmaker.app/)（円を不規則に曲げて変形させた流体シェイプを簡単に作成できる）
 
 ## 配色<a name="colorpallete"></a>
-
+- [COLORS](https://colors.design4u.jp)(棒グラフ、円グラフの配色にかなりおすすめ)
 - [Random palette](https://www.threebu.it/random-material-palette)（ランダム3色）
 - [pigment](https://pigment.shapefactory.co/)（2色の配色）
 - [HELLO COLOR](https://jxnblk.io/hello-color/?c=1dada3)（2色の配色）
